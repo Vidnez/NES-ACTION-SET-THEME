@@ -1,4 +1,5 @@
-![preview](https://user-images.githubusercontent.com/82564218/221287404-74c32dc9-eb64-4305-b2f1-41cb514ac787.png)
+![preview](https://user-images.githubusercontent.com/82564218/221393732-dc829c08-cdd6-45f6-892b-1920dd6e054e.png)
+
 
 
 # NES-ACTION-SET-THEME
