@@ -10,6 +10,6 @@ Theme for GarlicOS
 
 1.- Unzip NES_ACTION_SET.zip
 
-2.- Copy the skin, lang and font folders to ROMS/CFW
+2.- Copy skin, lang and font folders to ROMS/CFW
 
-3.- Copy the boot_logo.bmp.gz to MISC partition
+3.- Copy boot_logo.bmp.gz to MISC partition
